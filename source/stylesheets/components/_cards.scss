@@ -2,13 +2,12 @@
   padding: 100px 0;
   text-align: center;
 }
-
 .card {
   height: 175px;
   text-shadow: 0 1px 3px rgba(0,0,0,0.6);
   background-size: cover !important;
   background-position: center;
-  color: white;
+  color: $white;
   position: relative;
   padding: 0px 10px;
 }
