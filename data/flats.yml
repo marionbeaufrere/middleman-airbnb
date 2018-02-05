@@ -1,0 +1,28 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+thiago9li214:
+  name: "Max's home"
+  description: Small flat in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 5
+marionbeaufrere:
+  name: Marion's home
+  description: Nice hut in Bali
+  city_name: "Bali, Indonesia"
+  city_slug: "bali"
+  wifi: true
+  rating: 5
+supershwag:
+  name: Thanh's house
+  description: Nice apt in Melbourne
+  city_name: "Melbourne, VIC"
+  city_slug: "melbourne"
+  wifi: true
+  rating: 5
